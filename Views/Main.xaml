@@ -804,7 +804,7 @@
                                         <Setter Property="ItemsControl.Margin" Value="0,0,0,0"/>
                                         <Setter Property="ItemsControl.Opacity" Value="0"/>
                                         <Setter Property="ItemsControl.Height" Value="Auto"/>
-                                        <Setter Property="ItemsControl.Width" Value="{StaticResource DesignWidth}"/>
+                                        <Setter Property="ItemsControl.Width" Value="1700"/>
                                         <Setter Property="ItemsControl.VerticalAlignment" Value="Bottom"/>
                                         <Style.Triggers>
 
